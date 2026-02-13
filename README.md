@@ -1,4 +1,4 @@
-# 📊Bike Sales Analysis Using Excel
+# 📊bike sales analysis using excel
 
 ---
 
