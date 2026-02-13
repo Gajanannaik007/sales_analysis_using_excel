@@ -40,3 +40,29 @@ The primary objectives of this Sales Analysis project are:
 - 💰 Identify profit margins and detect potential loss areas.
 - 📊 Create an interactive dashboard for better business decision-making.
 - 🔍 Transform raw sales data into meaningful visual insights using Excel tools.
+---
+## 🗂 Dataset Information
+
+The dataset used in this project contains structured sales transaction data used to analyze business performance.
+
+### 📌 Dataset Details:
+
+- 📄 Total Records: XXXX rows  
+- 📊 Total Columns: XX columns  
+- 🗓 Time Period Covered: (e.g., 2019 – 2022)  
+- 🌍 Regions Included: Multiple sales regions  
+- 🛍 Categories: Various product categories  
+
+### Key Columns Used:
+
+- Order ID  
+- Order Date  
+- Region  
+- Category  
+- Sub-Category  
+- Product Name  
+- Sales  
+- Quantity  
+- Profit  
+
+This dataset enables detailed analysis of revenue trends, profit margins, product performance, and regional sales contribution.
