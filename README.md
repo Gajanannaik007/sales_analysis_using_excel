@@ -51,7 +51,7 @@ The dataset used in this project contains customer demographic and purchasing be
 - 🌍 Regions Included: North America, Europe, Pacific  
 - 🎯 Target Variable: Purchased Bike (Yes/No)  
 
-### 📋 Key Columns in Dataset:
+###  Key Columns in Dataset:
 
 - ID – Unique customer identifier  
 - Marital Status – Married / Single  
@@ -67,7 +67,7 @@ The dataset used in this project contains customer demographic and purchasing be
 - Age – Customer age  
 - Purchased Bike – Purchase decision (Target Variable)
 
-### 📊 Dataset Summary:
+### Dataset Summary:
 
 - 👥 Average Age: 44 years  
 - 💰 Average Income: $56,208  
