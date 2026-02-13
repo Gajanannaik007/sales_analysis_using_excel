@@ -99,17 +99,18 @@ An interactive Excel dashboard that analyzes bike sales data to uncover customer
   - Purchase behavior based on commute distance
   - Helps understand lifestyle impact on buying decisions
 
-## 🎯 Business Insights
+##  Business Insights
 
 - Identifies high-income customer segments
 - Highlights demographic influence on sales
 - Supports targeted marketing strategies
 - Enables dynamic filtering for real-time analysis
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Data Cleaning & Transformation
+---
