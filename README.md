@@ -43,26 +43,37 @@ The primary objectives of this Sales Analysis project are:
 ---
 ## 🗂 Dataset Information
 
-The dataset used in this project contains structured sales transaction data used to analyze business performance.
+The dataset used in this project contains customer demographic and purchasing behavior data related to bike purchases.
 
 ### 📌 Dataset Details:
 
-- 📄 Total Records: XXXX rows  
-- 📊 Total Columns: XX columns  
-- 🗓 Time Period Covered: (e.g., 2019 – 2022)  
-- 🌍 Regions Included: Multiple sales regions  
-- 🛍 Categories: Various product categories  
+- 📄 Total Records: 1026 rows  
+- 📊 Total Columns: 13 columns  
+- 🌍 Regions Included: North America, Europe, Pacific  
+- 🎯 Target Variable: Purchased Bike (Yes/No)  
 
-### Key Columns Used:
+### 📋 Key Columns in Dataset:
 
-- Order ID  
-- Order Date  
-- Region  
-- Category  
-- Sub-Category  
-- Product Name  
-- Sales  
-- Quantity  
-- Profit  
+- ID – Unique customer identifier  
+- Marital Status – Married / Single  
+- Gender – Male / Female  
+- Income – Annual income of customer  
+- Children – Number of children  
+- Education – Education level  
+- Occupation – Type of job  
+- Home Owner – Yes / No  
+- Cars – Number of cars owned  
+- Commute Distance – Distance to workplace  
+- Region – Customer region  
+- Age – Customer age  
+- Purchased Bike – Purchase decision (Target Variable)
 
-This dataset enables detailed analysis of revenue trends, profit margins, product performance, and regional sales contribution.
+### 📊 Dataset Summary:
+
+- 👥 Average Age: 44 years  
+- 💰 Average Income: $56,208  
+- 👨‍👩‍👧 Average Children: 2  
+- 🚗 Average Cars Owned: 1  
+
+This dataset enables analysis of customer demographics and identification of factors influencing bike purchase decisions.
+---
