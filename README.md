@@ -22,3 +22,15 @@ The goal of this project is to analyze sales performance, identify business tren
 The dashboard provides a clear view of total sales, profit performance, regional trends, and product-level analysis. 
 By leveraging Excel tools such as Pivot Tables, Charts, and Slicers, the project transforms raw sales data into meaningful business intelligence for better decision-making.
 ---
+## Objectives
+
+The primary objectives of this Sales Analysis project are:
+
+- To analyze overall sales and profit performance across different regions.
+- To identify top-performing and underperforming products.
+- To evaluate monthly and yearly sales trends.
+- To measure region-wise and category-wise contribution to total revenue.
+- To identify profit margins and detect potential loss areas.
+- To create an interactive dashboard for better business decision-making.
+- To transform raw sales data into meaningful visual insights using Excel tools.
+---
