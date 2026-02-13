@@ -76,3 +76,40 @@ The dataset used in this project contains customer demographic and purchasing be
 
 This dataset enables analysis of customer demographics and identification of factors influencing bike purchase decisions.
 ---
+##📊 Dashboard Features
+
+An interactive Excel dashboard that analyzes bike sales data to uncover customer purchasing behavior and demographic trends.
+
+## Key Features
+
+- **Interactive Slicers**
+  - Marital Status (Married / Single)
+  - Region (Europe, North America, Pacific)
+  - Education Level (Bachelors, Graduate Degree, High School, Partial College, Partial High School)
+
+- **Average Income per Purchase**
+  - Compares income of customers who purchased vs. did not purchase bikes
+  - Gender-based income insights
+
+- **Customer Age Analysis**
+  - Purchase trends across age brackets (31–54, 55+)
+  - Identifies high-conversion age segments
+
+- **Customer Commute Analysis**
+  - Purchase behavior based on commute distance
+  - Helps understand lifestyle impact on buying decisions
+
+## 🎯 Business Insights
+
+- Identifies high-income customer segments
+- Highlights demographic influence on sales
+- Supports targeted marketing strategies
+- Enables dynamic filtering for real-time analysis
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning & Transformation
