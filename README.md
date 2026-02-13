@@ -13,3 +13,12 @@
 10. [Conclusion](#conclusion)
 11. [Future Improvements](#future-improvements)
 12. [Author](#author)
+---
+ ## Project Overview
+
+This project presents a comprehensive Sales Analysis Dashboard built using Microsoft Excel. 
+The goal of this project is to analyze sales performance, identify business trends, and generate actionable insights using data visualization techniques.
+
+The dashboard provides a clear view of total sales, profit performance, regional trends, and product-level analysis. 
+By leveraging Excel tools such as Pivot Tables, Charts, and Slicers, the project transforms raw sales data into meaningful business intelligence for better decision-making.
+---
