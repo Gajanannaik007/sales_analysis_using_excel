@@ -76,7 +76,7 @@ The dataset used in this project contains customer demographic and purchasing be
 
 This dataset enables analysis of customer demographics and identification of factors influencing bike purchase decisions.
 ---
-##📊 Dashboard Features
+### 📊 Dashboard Features
 
 An interactive Excel dashboard that analyzes bike sales data to uncover customer purchasing behavior and demographic trends.
 
