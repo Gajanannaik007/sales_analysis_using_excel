@@ -74,6 +74,7 @@ The dataset used in this project contains customer demographic and purchasing be
 - 🚗 Average Cars Owned: 1  
 
 This dataset enables analysis of customer demographics and identification of factors influencing bike purchase decisions.
+
 ---
 
 ### 📊 Dashboard Features
