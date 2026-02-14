@@ -145,4 +145,16 @@ The analysis highlights that income level, age group, number of cars owned, and 
 
 Overall, this project demonstrates how Excel can be effectively used as a powerful data analysis and business intelligence tool to transform raw data into actionable insights.
 ---
+## 🚀 Future Improvements
+
+To further enhance this project, the following improvements can be implemented:
+
+- Automate data cleaning and reporting using Excel VBA or Macros.
+- Integrate the dataset with Power BI for advanced visualization and storytelling.
+- Apply predictive analysis techniques to forecast customer purchase behavior.
+- Implement basic statistical analysis to identify stronger correlations.
+- Connect Excel with a live database (SQL) for real-time data updates.
+- Improve dashboard design with advanced charts and interactive elements.
+---
+
 
