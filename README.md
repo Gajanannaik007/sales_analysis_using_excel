@@ -80,6 +80,23 @@ This dataset enables analysis of customer demographics and identification of fac
 
 An interactive Excel dashboard that analyzes bike sales data to uncover customer purchasing behavior and demographic trends.
 
+The Bike Buyers Analysis Dashboard provides an interactive visual summary of customer demographics and purchasing behavior.
+
+## Key Dashboard Highlights:
+
+- 👥 Total Customers Overview – Displays total number of customers analyzed.
+- 🚴 Purchase Distribution – Shows comparison between customers who purchased bikes and those who did not.
+- 👨‍👩‍👧 Demographic Analysis – Breakdown by Age, Gender, Marital Status, and Education level.
+- 💰 Income Analysis – Comparison of income levels between buyers and non-buyers.
+- 🌍 Regional Performance – Purchase behavior segmented by region (North America, Europe, Pacific).
+- 🚗 Lifestyle Factors – Analysis based on number of cars owned and commute distance.
+- 🎛 Interactive Filters – Slicers allow dynamic filtering by gender, region, marital status, and other categories.
+
+## Dashboard Purpose
+
+The dashboard transforms raw customer data into visual insights, enabling easy identification of trends and key purchase-driving factors.  
+It supports data-driven decision-making by highlighting demographic patterns and behavioral differences between buyers and non-buyers.
+
 
 
 ---
