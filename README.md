@@ -149,5 +149,16 @@ To further enhance this project, the following improvements can be implemented:
 - Connect Excel with a live database (SQL) for real-time data updates.
 - Improve dashboard design with advanced charts and interactive elements.
 ---
+## 👤 Author 
+
+**Gajanan M Naik**  
+Aspiring Data Analyst  
+
+  - 📧 Email: [naikgajanan238@gmail.com](mailto:naikgajanan238@gmail.com)
+  - 💼 LinkedIn:[https://www.linkedin.com/in/gajanan-naik-4a8a08373/](https://www.linkedin.com/in/gajanan-naik-4a8a08373/)
+  - 🐙 GitHub: [https://github.com/Gajanannaik007](https://github.com/Gajanannaik007)
+
+---
+
 
 
