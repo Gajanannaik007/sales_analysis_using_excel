@@ -84,13 +84,13 @@ The Bike Buyers Analysis Dashboard provides an interactive visual summary of cus
 
 ## Key Dashboard Highlights:
 
-- 👥 Total Customers Overview – Displays total number of customers analyzed.
-- 🚴 Purchase Distribution – Shows comparison between customers who purchased bikes and those who did not.
-- 👨‍👩‍👧 Demographic Analysis – Breakdown by Age, Gender, Marital Status, and Education level.
-- 💰 Income Analysis – Comparison of income levels between buyers and non-buyers.
-- 🌍 Regional Performance – Purchase behavior segmented by region (North America, Europe, Pacific).
-- 🚗 Lifestyle Factors – Analysis based on number of cars owned and commute distance.
-- 🎛 Interactive Filters – Slicers allow dynamic filtering by gender, region, marital status, and other categories.
+-  Total Customers Overview – Displays total number of customers analyzed.
+-  Purchase Distribution – Shows comparison between customers who purchased bikes and those who did not.
+- Demographic Analysis – Breakdown by Age, Gender, Marital Status, and Education level.
+-  Income Analysis – Comparison of income levels between buyers and non-buyers.
+- Regional Performance – Purchase behavior segmented by region (North America, Europe, Pacific).
+-  Lifestyle Factors – Analysis based on number of cars owned and commute distance.
+- Interactive Filters – Slicers allow dynamic filtering by gender, region, marital status, and other categories.
 
 ## Dashboard Purpose
 
