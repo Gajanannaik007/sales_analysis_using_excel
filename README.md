@@ -136,6 +136,7 @@ Through data cleaning, pivot table analysis, and interactive dashboard creation 
 The analysis highlights that income level, age group, number of cars owned, and region play a significant role in determining customer purchase behavior. 
 
 Overall, this project demonstrates how Excel can be effectively used as a powerful data analysis and business intelligence tool to transform raw data into actionable insights.
+
 ---
 
 ## 🚀 Future Improvements
