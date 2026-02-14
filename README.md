@@ -115,3 +115,24 @@ An interactive Excel dashboard that analyzes bike sales data to uncover customer
 - Slicers
 - Data Cleaning & Transformation
 ---
+## 💡 Key Insights
+
+Based on the data analysis, the following key insights were identified:
+
+-  Customers aged between 30–50 years are more likely to purchase bikes compared to other age groups.
+
+-  Higher-income customers show a greater probability of purchasing bikes.
+
+-  Male customers slightly dominate bike purchases compared to female customers.
+
+-  Customers with fewer children tend to purchase bikes more frequently.
+
+-  Customers owning fewer cars are more likely to buy bikes, indicating bikes may be used as an alternative mode of transportation.
+
+-  Homeowners show a higher purchase rate compared to non-homeowners.
+
+-  Customers from North America region have a comparatively higher purchase rate than other regions.
+
+-  Education and occupation also influence buying behavior, with professionals and graduates showing higher purchase interest.
+---
+
