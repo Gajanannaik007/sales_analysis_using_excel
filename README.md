@@ -145,6 +145,7 @@ The analysis highlights that income level, age group, number of cars owned, and 
 
 Overall, this project demonstrates how Excel can be effectively used as a powerful data analysis and business intelligence tool to transform raw data into actionable insights.
 ---
+
 ## 🚀 Future Improvements
 
 To further enhance this project, the following improvements can be implemented:
