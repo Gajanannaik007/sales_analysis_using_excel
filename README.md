@@ -10,11 +10,10 @@
 4. [🧹 Data Cleaning Process](#-data-cleaning-process)
 5. [📊 Dashboard Features](#-dashboard-features)
 6. [💡 Key Insights](#-key-insights)
-7. [🛠 Tools Used](#-tools-used)
-8. [🖼 Project Screenshots](#-project-screenshots)
-9. [📌 Conclusion](#-conclusion)
-10. [🚀 Future Improvements](#-future-improvements)
-11. [👤 Author](#-author)
+7. [🖼 Project Screenshots](#-project-screenshots)
+8. [📌 Conclusion](#-conclusion)
+9. [🚀 Future Improvements](#-future-improvements)
+10. [👤 Author](#-author)
 
 ---
 
@@ -81,9 +80,29 @@ This dataset enables analysis of customer demographics and identification of fac
 
 An interactive Excel dashboard that analyzes bike sales data to uncover customer purchasing behavior and demographic trends.
 
-## Key Features
 
-- **Interactive Slicers**
+
+---
+## 💡 Key Insights
+
+Based on the data analysis, the following key insights were identified:
+
+-  Customers aged between 30–50 years are more likely to purchase bikes compared to other age groups.
+
+-  Higher-income customers show a greater probability of purchasing bikes.
+
+-  Male customers slightly dominate bike purchases compared to female customers.
+
+-  Customers with fewer children tend to purchase bikes more frequently.
+
+-  Customers owning fewer cars are more likely to buy bikes, indicating bikes may be used as an alternative mode of transportation.
+
+-  Homeowners show a higher purchase rate compared to non-homeowners.
+
+-  Customers from North America region have a comparatively higher purchase rate than other regions.
+
+-  Education and occupation also influence buying behavior, with professionals and graduates showing higher purchase interest.
+-   **Interactive Slicers**
   - Marital Status (Married / Single)
   - Region (Europe, North America, Pacific)
   - Education Level (Bachelors, Graduate Degree, High School, Partial College, Partial High School)
@@ -107,33 +126,6 @@ An interactive Excel dashboard that analyzes bike sales data to uncover customer
 - Supports targeted marketing strategies
 - Enables dynamic filtering for real-time analysis
 
-##  Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning & Transformation
----
-## 💡 Key Insights
-
-Based on the data analysis, the following key insights were identified:
-
--  Customers aged between 30–50 years are more likely to purchase bikes compared to other age groups.
-
--  Higher-income customers show a greater probability of purchasing bikes.
-
--  Male customers slightly dominate bike purchases compared to female customers.
-
--  Customers with fewer children tend to purchase bikes more frequently.
-
--  Customers owning fewer cars are more likely to buy bikes, indicating bikes may be used as an alternative mode of transportation.
-
--  Homeowners show a higher purchase rate compared to non-homeowners.
-
--  Customers from North America region have a comparatively higher purchase rate than other regions.
-
--  Education and occupation also influence buying behavior, with professionals and graduates showing higher purchase interest.
 ---
 ## 📌 Conclusion
 
