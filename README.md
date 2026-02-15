@@ -97,7 +97,7 @@ The Bike Buyers Analysis Dashboard provides an interactive visual summary of cus
 
 The dashboard transforms raw customer data into visual insights, enabling easy identification of trends and key purchase-driving factors.  
 It supports data-driven decision-making by highlighting demographic patterns and behavioral differences between buyers and non-buyers.
-
+![Sales Dashboard](images/sales_dashboard.png)
 
 
 ---
