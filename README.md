@@ -9,11 +9,12 @@
 3. [🗂 Dataset Information](#-dataset-information)
 4. [🧹 Data Cleaning Process](#-data-cleaning-process)
 5. [📊 Dashboard Features](#-dashboard-features)
-6. [💡 Key Insights](#-key-insights)
-7. [🖼 Project Screenshots](#-project-screenshots)
-8. [📌 Conclusion](#-conclusion)
-9. [🚀 Future Improvements](#-future-improvements)
-10. [👤 Author](#-author)
+6. [Pivot Table Analysis](#pivot-table-analysis)
+7. [💡 Key Insights](#-key-insights)
+8. [🖼 Project Screenshots](#-project-screenshots)
+9. [📌 Conclusion](#-conclusion)
+10. [🚀 Future Improvements](#-future-improvements)
+11. [👤 Author](#-author)
 
 ---
 
