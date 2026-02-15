@@ -8,8 +8,8 @@
 2. [🎯 Objectives](#-objectives)
 3. [🗂 Dataset Information](#-dataset-information)
 4. [🧹 Data Cleaning Process](#-data-cleaning-process)
-5. [📊 Dashboard Features](#-dashboard-features)
-6. [Pivot Table Analysis](#pivot-table-analysis)
+5. [📈 Dashboard Features](#-dashboard-features)
+6. [📊Pivot Table Analysis](#pivot-table-analysis)
 7. [💡 Key Insights](#-key-insights)
 8. [🖼 Project Screenshots](#-project-screenshots)
 9. [📌 Conclusion](#-conclusion)
@@ -78,7 +78,7 @@ This dataset enables analysis of customer demographics and identification of fac
 
 ---
 
-### 📊 Dashboard Features
+### 📈 Dashboard Features
 
 An interactive Excel dashboard that analyzes bike sales data to uncover customer purchasing behavior and demographic trends.
 
